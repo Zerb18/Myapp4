@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp4</string>
+    <string name="activityAcierto">"Joc de Encert "</string>
+    <string name="activityPrimos">"nombre Primo "</string>
+    <string name="activityDesplazar">desplaçant imatges</string>
+    <string name="activitySelecionar">seleccionant imatges</string>
+    <string name="alemania">Alemanya</string>
+    <string name="amsterdam">Amsterdam</string>
+    <string name="berlin">Berlín</string>
+    <string name="bogota">Bogotá</string>
+    <string name="btn1">Nº Primo</string>
+    <string name="btn2">joc</string>
+    <string name="btn3">"desplaçant Imatges "</string>
+    <string name="btn4">Selecciona Imatges</string>
+    <string name="btnCheck">comprovar</string>
+    <string name="calcular">Calcular</string>
+    <string name="capitales">capitals</string>
+    <string name="colombia">Colòmbia</string>
+    <string name="esPrimo">"El nombre és primer "</string>
+    <string name="españa">Espanya</string>
+    <string name="francia">França</string>
+    <string name="holanda">Holanda</string>
+    <string name="italia">"itàlia "</string>
+    <string name="lima">Lima</string>
+    <string name="lisboa">Lisboa</string>
+    <string name="madrid">Madrid</string>
+    <string name="noruega">Noruega</string>
+    <string name="noEsPrimo">" El nombre no és primer"</string>
+    <string name="numeroPrimo">"Introduïu un nombre "</string>
+    <string name="oslo">Oslo</string>
+    <string name="paises">països</string>
+    <string name="paris">París</string>
+    <string name="peru">Perú</string>
+    <string name="planta1">Rosa</string>
+    <string name="planta2">clavell</string>
+    <string name="planta3">Jazmin</string>
+    <string name="planta4">Tulipan</string>
+    <string name="portugal">Portugal</string>
+    <string name="resultado">"resultat "</string>
+    <string name="roma">Roma</string>
+</resources>

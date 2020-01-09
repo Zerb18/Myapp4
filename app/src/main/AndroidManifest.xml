@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapp4">
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/iconzerb18"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/iconzerb18_round"
+        android:supportsRtl="true"
+        android:theme="@style/CustomTheme">
+        <activity android:name=".desplazar_imagenes"
+            android:label="@string/activityDesplazar" ></activity>
+        <activity android:name=".selecionar_imagenes"
+            android:label="@string/activitySelecionar" />
+
+        <activity android:name=".Juego_de_aciertos"
+            android:label="@string/activityAcierto" />
+
+        <activity android:name=".primo"
+        android:label="@string/activityPrimos"/>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

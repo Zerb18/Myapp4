@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp4</string>
+    <string name="activityAcierto">"Game of Success "</string>
+    <string name="activityDesplazar">"Scrolling images "</string>
+    <string name="activityPrimos">"Prime number "</string>
+    <string name="activitySelecionar">"Selecting images "</string>
+    <string name="alemania">Germany</string>
+    <string name="amsterdam">Amsterdam</string>
+    <string name="berlin">Berlín</string>
+    <string name="bogota">Bogotá</string>
+    <string name="btn1">"Cousin No. "</string>
+    <string name="btn2">game</string>
+    <string name="btn3">"Shifting Images "</string>
+    <string name="btn4">"Select Images "</string>
+    <string name="btnCheck">"Check "</string>
+    <string name="calcular">Calculate</string>
+    <string name="capitales">Capitals</string>
+    <string name="colombia">Colombia</string>
+    <string name="esPrimo">"The number is cousin "</string>
+    <string name="españa">Spain</string>
+    <string name="francia">France</string>
+    <string name="holanda">Holland</string>
+    <string name="italia">Italy</string>
+    <string name="lima">"Lime "</string>
+    <string name="lisboa">Lisbon</string>
+    <string name="madrid">Madrid</string>
+    <string name="noEsPrimo">"The number is not a cousin "</string>
+    <string name="noruega">Norway</string>
+    <string name="numeroPrimo">"Enter a number "</string>
+    <string name="oslo">Oslo</string>
+    <string name="paises">Countries</string>
+    <string name="paris">París</string>
+    <string name="peru">Perú</string>
+    <string name="planta1">"pink "</string>
+    <string name="planta2">Carnation</string>
+    <string name="planta3">Jasmine</string>
+    <string name="planta4">Tulip</string>
+    <string name="portugal">Portugal</string>
+    <string name="resultado">Outcome</string>
+    <string name="roma">Rome</string>
+</resources>
